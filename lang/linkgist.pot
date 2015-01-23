@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-15 20:49+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/LinkGist/Admin.php:30 src/LinkGist/Admin.php:127
+msgid "Options"
+msgstr ""
+
+#: src/LinkGist/Admin.php:94
+msgid "Account"
+msgstr ""
+
+#: src/LinkGist/Admin.php:100
+msgid "Customer ID"
+msgstr ""
+
+#: src/LinkGist/Admin.php:112
+msgid "Media ID"
+msgstr ""
+
+#: src/LinkGist/Admin.php:133
+msgid "Redirect Title"
+msgstr ""
+
+#: src/LinkGist/Admin.php:140
+msgid ""
+"Once words are replaced by LinkGist this will be the new mouseover title."
+msgstr ""
+
+#: src/LinkGist/Admin.php:145
+msgid "Replace Multiple Words"
+msgstr ""
+
+#: src/LinkGist/Admin.php:157
+msgid "Amount"
+msgstr ""
+
+#: src/LinkGist/Admin.php:165
+msgid "How many words that may be replaced."
+msgstr ""
+
+#: src/LinkGist/Admin.php:170
+msgid "Script Mode"
+msgstr ""
+
+#: src/LinkGist/Admin.php:185
+msgid "Commission"
+msgstr ""
+
+#: src/LinkGist/Admin.php:211
+msgid "Enter your LinkGist customer and/or media ID."
+msgstr ""
+
+#: src/LinkGist/Admin.php:213
+#, php-format
+msgid "Log in %s to look up."
+msgstr ""
+
+#: src/LinkGist/Admin.php:216
+msgid "here"
+msgstr ""
+
+#: src/LinkGist/Admin.php:229
+msgid "Check out my earned commission."
+msgstr ""
+
+#: src/LinkGist/Admin.php:308
+msgid "All services"
+msgstr ""
+
+#: src/LinkGist/Admin.php:308
+msgid "This enables the full potential of the LinkGist service."
+msgstr ""
+
+#: src/LinkGist/Admin.php:309
+msgid "Monetize existing links"
+msgstr ""
+
+#: src/LinkGist/Admin.php:309
+msgid ""
+"This enables the Link Replacement service. We'll scan for existing links and "
+"replace the ones which are monetizable. No alterations are made to existing "
+"affiliate links or non-monetizable links."
+msgstr ""
+
+#: src/LinkGist/Admin.php:310
+msgid "Replace merchant names to links"
+msgstr ""
+
+#: src/LinkGist/Admin.php:310
+msgid ""
+"Replaces names and unlinked domains names of merchants with their "
+"appropriate affiliate link."
+msgstr ""
+
+#: src/LinkGist/Admin.php:311
+msgid "CPM and CPC campaigns"
+msgstr ""
+
+#: src/LinkGist/Admin.php:311
+msgid ""
+"LinkGist exclusive CPM and CPC campaigns. Enables keyword buying for "
+"advertisers. Generates significantly higher revenue than general campaigns."
+msgstr ""
+
+#: src/LinkGist/Admin.php:312
+msgid "Contextual advertising (word replacement)"
+msgstr ""
+
+#: src/LinkGist/Admin.php:312
+msgid ""
+"In content contextual advertising. This is the Word Replacement service, "
+"which replaces words and wordgroups for relevant advertising links. The "
+"content itself remains untouched."
+msgstr ""
+
+#: src/LinkGist/MetaBox.php:48
+msgid "monetizing the links"
+msgstr ""
+
+#: src/LinkGist/MetaBox.php:54
+#, php-format
+msgid ""
+"Congrats, you've successfully installed LinkGist! LinkGist is a smart way of "
+"%s in your blog."
+msgstr ""
+
+#: src/LinkGist/MetaBox.php:64
+msgid "Disable for this entry"
+msgstr ""
